@@ -12,8 +12,8 @@ You will need Intellij and Scala (latest stable) and SBT (latest Stable). Please
 
 Please follow the primer launcher object `/src/main/scala/akkastream/primer/AkkaStreamsPrimerLauncher.scala` to get started. Code is very well documented and self directed. 
 
-I reccomend going through my below blog on Akka streams before getting started with the primer.
-https://anuprawka.medium.com/?p=e87d76c9dfca
+I reccomend going through the blog [Akka Streams: Our Journey for Fast Data Processing and Tech Primer](https://anuprawka.medium.com/?p=e87d76c9dfca) before getting started with the primer.
+
 
 
 ## Refrences
