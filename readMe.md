@@ -8,7 +8,7 @@ It takes an CSV data, converts it to Json record based on provided schema and wr
 to document every function and concept.
 
 ## What you'll need
-You will need Intellij and Scala (latest stable) and SBT (latest Stable).
+You will need Intellij and Scala (latest stable) and SBT (latest Stable). Please check build.sbt to find all the dependencies of tech stack used in this primer.
 
 Please follow the primer launcher object `/src/main/scala/akkastream/primer/AkkaStreamsPrimerLauncher.scala` to get started. Code is very well documented and self directed. 
 
