@@ -6,9 +6,10 @@ The main goal of Reactive Streams is to govern the exchange of stream data acros
 ## What you'll build
 Akka streams provides both Java and Scala based API, for this primer we will be using Scala. This Primer
 will walk you through the steps to build a simple streaming Data Transformation and processing flow. The primer shows an example
-of processing CSV data through file.
-It takes an CSV data, converts it to Json record based on provided schema and write it back to a file. I tried
+of processing CSV data through file. It takes an CSV data, converts it to Json record based on provided schema and write it back to a file. I tried
 to document every function and concept.
+
+At the end of the Primer user will lear the concept of Akka streams Source, Flow and Sink and will be able to build basic Akka Streams graph.
 
 ## What you'll need
 * About 60 mins
