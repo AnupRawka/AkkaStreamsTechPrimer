@@ -38,8 +38,8 @@ Please comment below if you ahve any issues using the primer or any suggesstions
 
 ## Refrences
 * [Getting started with Akka Streams](https://stackoverflow.com/questions/35120082/how-to-get-started-with-akka-streams)
-* [A journey into Akka Streams] (https://blog.redelastic.com/a-journey-into-reactive-streams-5ee2a9cd7e29?gi=6a8e997f29ea)
-* [Akka streams official Doc] (https://doc.akka.io/docs/akka/current/stream/stream-introduction.html)
-* [Why we picked Akka streams] (https://tech.iheart.com/why-we-picked-akka-cluster-as-our-microservice-framework-bbf3019a3217)
+* [A journey into Akka Streams](https://blog.redelastic.com/a-journey-into-reactive-streams-5ee2a9cd7e29?gi=6a8e997f29ea)
+* [Akka streams official Doc](https://doc.akka.io/docs/akka/current/stream/stream-introduction.html)
+* [Why we picked Akka streams](https://tech.iheart.com/why-we-picked-akka-cluster-as-our-microservice-framework-bbf3019a3217)
 * [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754/)
-* [Reactive Streams] (https://developer.lightbend.com/docs/akka-platform-guide/concepts/reactive-streams.html)
+* [Reactive Streams](https://developer.lightbend.com/docs/akka-platform-guide/concepts/reactive-streams.html)
